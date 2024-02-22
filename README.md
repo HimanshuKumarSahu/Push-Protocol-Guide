@@ -7,13 +7,12 @@
 3. Push Protocol - Method used in development for initiating data transmission from a server to a client without the client explicitly requesting it. 
 
 # How to run locally 
-1. 
-npm run dev
-or
+1. npm run dev
+# or
 yarn dev
-or
+# or
 pnpm dev
-or
+# or
 bun dev
 
 2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
